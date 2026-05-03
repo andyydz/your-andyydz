@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Andrew Vinston D'Souza (you can call me Andyyy)
+# 👋 Hi, I'm Andrew Vinston D'Souza (you can call me Andyy)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Learning-green)
+![Linux](https://img.shields.io/badge/Linux-Basics-blue)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Student-red)
 
 🎓 BCA Student | Cybersecurity Enthusiast  
 🔐 Focused on SOC & Blue Team  
